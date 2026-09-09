@@ -1,0 +1,100 @@
+@use "../styles/tokens" as *;
+@use "../styles/mixins" as m;
+
+.quiz3 {
+  &__card {
+    display: grid;
+    gap: $space-4;
+    border: 2px solid rgba(255, 46, 99, 0.4);
+  }
+
+  &__hud {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  &__score {
+    @include m.neon-text($color-warning);
+  }
+
+  &__title {
+    text-align: center;
+
+    @include m.neon-text($color-danger);
+  }
+
+  &__warning {
+    margin: 0;
+    text-align: center;
+    color: $color-warning;
+    font-size: 13px;
+  }
+
+  &__questionBlock {
+    display: grid;
+    gap: $space-3;
+  }
+
+  &__question {
+    margin: 0;
+    font-size: 16px;
+  }
+
+  &__inputRow {
+    display: grid;
+    grid-template-columns: 24px 1fr;
+    gap: 10px;
+  }
+
+  &__prompt {
+    display: flex;
+    align-items: center;
+
+    @include m.neon-text($color-primary);
+  }
+
+  &__input {
+    text-transform: uppercase;
+  }
+
+  &__actions {
+    display: grid;
+    gap: 10px;
+  }
+
+  &__result {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 100;
+
+    margin: 0;
+    padding: 14px 22px;
+    border-radius: $radius-md;
+
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+
+    background: rgba(0, 0, 0, 0.82);
+    border: 1px solid $border;
+    color: $color-text;
+    box-shadow: 0 0 24px rgba(0, 0, 0, 0.45);
+    animation: popIn 0.18s ease-out;
+  }
+
+  &__result--win {
+    @include m.neon-text($color-primary);
+  }
+
+  &__result--lose {
+    @include m.neon-text($color-danger);
+  }
+}

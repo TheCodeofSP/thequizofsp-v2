@@ -1,0 +1,38 @@
+// 🎮 THEME RETRO 90s
+
+$color-bg: #010405;
+$color-panel: #071014;
+
+$color-primary: #39ff14;
+$color-secondary: #00e5ff;
+$color-accent: #ff3df5;
+
+$color-warning: #ffe600;
+$color-danger: #ff2e63;
+
+$color-text: #e7fff1;
+$color-muted: rgba(231, 255, 241, 0.66);
+
+$border: rgba(57, 255, 20, 0.25);
+$border-soft: rgba(214, 255, 233, 0.12);
+
+$shadow: 0 28px 80px rgba(0, 0, 0, 0.72);
+
+$radius-lg: 22px;
+$radius-md: 12px;
+$radius-sm: 8px;
+
+$space-1: 6px;
+$space-2: 10px;
+$space-3: 14px;
+$space-4: 18px;
+$space-5: 24px;
+
+$max-width: 960px;
+
+// typo retro
+$font-retro: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+// breakpoints mobile-first
+$bp-md: 768px;
+$bp-lg: 1024px;

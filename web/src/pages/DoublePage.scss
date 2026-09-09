@@ -1,0 +1,41 @@
+@use "../styles/tokens" as *;
+@use "../styles/mixins" as m;
+
+.double {
+  &__card {
+    display: grid;
+    gap: $space-4;
+    border: 2px solid rgba(255, 46, 99, 0.4);
+  }
+
+  &__hud {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  &__score {
+    @include m.neon-text($color-warning);
+  }
+
+  &__title {
+    text-align: center;
+
+    @include m.neon-text($color-danger);
+  }
+
+  &__warning {
+    margin: 0;
+    text-align: center;
+    color: $color-warning;
+    font-size: 13px;
+  }
+
+  &__actions {
+    display: flex;
+    gap: 10px;
+  }
+}

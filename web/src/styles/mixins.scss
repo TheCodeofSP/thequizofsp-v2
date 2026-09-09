@@ -1,0 +1,60 @@
+@use "./tokens" as *;
+
+@mixin up($bp) {
+  @media (min-width: $bp) {
+    @content;
+  }
+}
+
+@mixin neon-text($color: $color-primary) {
+  color: $color;
+  text-shadow:
+    0 0 6px rgba($color, 0.6),
+    0 0 20px rgba($color, 0.3);
+}
+
+@mixin neon-border($color: $color-primary) {
+  box-shadow:
+    0 0 6px rgba($color, 0.3),
+    0 0 16px rgba($color, 0.2);
+}
+
+@mixin crt {
+  position: relative;
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(
+      circle at center,
+      transparent 60%,
+      rgba(0, 0, 0, 0.7)
+    );
+    pointer-events: none;
+  }
+}
+
+@mixin scanlines {
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.03),
+      rgba(255, 255, 255, 0.03) 1px,
+      transparent 1px,
+      transparent 4px
+    );
+    opacity: 0.5;
+    pointer-events: none;
+  }
+}
+
+@mixin focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(57, 255, 20, 0.4);
+}

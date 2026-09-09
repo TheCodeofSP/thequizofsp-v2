@@ -1,0 +1,118 @@
+@use "../styles/tokens" as *;
+@use "../styles/mixins" as m;
+
+.nextLevel {
+  &__card {
+    display: grid;
+    gap: $space-4;
+  }
+
+  &__hud {
+    display: grid;
+    gap: 4px;
+    padding-bottom: $space-2;
+    border-bottom: 1px solid $border-soft;
+  }
+
+  &__hudLine {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  &__hudLabel {
+    color: $color-muted;
+  }
+
+  &__hudValue {
+    color: $color-text;
+  }
+
+  &__hudValue--ok {
+    @include m.neon-text($color-primary);
+  }
+
+  &__titleBlock {
+    display: grid;
+    gap: 8px;
+  }
+
+  &__title {
+    margin: 0;
+  }
+
+  &__subtitle {
+    margin: 0;
+  }
+
+  &__textBtn {
+    width: 100%;
+    margin: auto;
+  }
+
+  &__actions {
+    display: flex;
+    gap: 10px;
+  }
+
+  &__footer {
+    margin: 0;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: $color-muted;
+  }
+
+  &__blink {
+    @include m.neon-text($color-accent);
+    animation: flicker 2.4s infinite;
+  }
+
+  &__terminalBody {
+    min-height: 170px;
+    display: grid;
+    gap: 8px;
+    align-content: start;
+  }
+
+  &__logLine {
+    margin: 0;
+    min-height: 22px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    animation: terminalFadeIn 0.18s ease-out;
+  }
+
+  &__prompt {
+    flex: 0 0 auto;
+  }
+
+  &__logText {
+    display: inline-flex;
+    align-items: center;
+    min-width: 0;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  &__cursor {
+    display: inline-block;
+    margin-left: 4px;
+    animation: blink 0.8s steps(1) infinite;
+  }
+
+  @include m.up($bp-md) {
+    &__hud {
+      grid-template-columns: 1fr 1fr 1fr;
+      align-items: start;
+    }
+
+    &__actions {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+}

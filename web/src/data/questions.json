@@ -1,0 +1,1311 @@
+{
+  "quiz1_profile": [
+    {
+      "id": "p1",
+      "type": "mcq",
+      "question": "Quelle est la langue la plus parlée sur Internet ?",
+      "choices": ["Espagnol", "Chinois", "Anglais", "Arabe"],
+      "answerIndex": 2
+    },
+    {
+      "id": "p2",
+      "type": "mcq",
+      "question": "Quel est le principal objectif de l’UNICEF ?",
+      "choices": [
+        "Aider les personnes âgées",
+        "Protéger les droits des enfants",
+        "Financer les écoles",
+        "Soigner les malades"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "p3",
+      "type": "mcq",
+      "question": "Quel est le pourcentage de la population mondiale vivant en ville ?",
+      "choices": ["40%", "45%", "55%", "65%"],
+      "answerIndex": 2
+    },
+    {
+      "id": "p4",
+      "type": "mcq",
+      "question": "Quel pays a été le premier à accorder le droit de vote aux femmes ?",
+      "choices": ["France", "États-Unis", "Nouvelle-Zélande", "Canada"],
+      "answerIndex": 2
+    },
+    {
+      "id": "p5",
+      "type": "mcq",
+      "question": "En France, quel pourcentage de la population possède un animal de compagnie ?",
+      "choices": ["30%", "45%", "60%", "75%"],
+      "answerIndex": 1
+    },
+    {
+      "id": "p6",
+      "type": "mcq",
+      "question": "De quelle nationalité est la marque Superdry ?",
+      "choices": ["Française", "Américaine", "Britannique", "Italienne"],
+      "answerIndex": 2
+    },
+    {
+      "id": "p7",
+      "type": "mcq",
+      "question": "Qui a gagné Roland Garros en 2003 ?",
+      "choices": [
+        "Rafael Nadal",
+        "Roger Federer",
+        "Juan Carlos Ferrero",
+        "Andre Agassi"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "p8",
+      "type": "mcq",
+      "question": "Quel designer de mode est célèbre pour la petite robe noire ?",
+      "choices": [
+        "Christian Dior",
+        "Coco Chanel",
+        "Karl Lagerfeld",
+        "Givenchy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "p9",
+      "type": "mcq",
+      "question": "Quand a été inventée la casquette ?",
+      "choices": [
+        "XVIIe siècle",
+        "XIXe siècle",
+        "Début du XXe siècle",
+        "Années 1970"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "p10",
+      "type": "mcq",
+      "question": "À l'origine, pour qui le blouson bomber a-t-il été conçu ?",
+      "choices": [
+        "Les pilotes de l’armée de l’air",
+        "Les motards",
+        "Les joueurs de baseball",
+        "Les marins"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "p11",
+      "type": "mcq",
+      "question": "En quelle année les lunettes Aviator de Ray-Ban ont-elles été créées ?",
+      "choices": ["1929", "1937", "1945", "1958"],
+      "answerIndex": 1
+    },
+    {
+      "id": "p12",
+      "type": "mcq",
+      "question": "Dans Le Seigneur des anneaux, quel membre de la Communauté tombe dans la Moria ?",
+      "choices": ["Frodon", "Legolas", "Gandalf", "Aragorn"],
+      "answerIndex": 2
+    },
+    {
+      "id": "p13",
+      "type": "mcq",
+      "question": "Quel film met en scène Edward Norton et Brad Pitt dans un club secret ?",
+      "choices": ["Seven", "Fight Club", "Inception", "Snatch"],
+      "answerIndex": 1
+    },
+    {
+      "id": "p14",
+      "type": "mcq",
+      "question": "Quel gaz est principalement responsable du réchauffement climatique ?",
+      "choices": ["Oxygène", "Dioxyde de carbone (CO2)", "Azote", "Hélium"],
+      "answerIndex": 1
+    },
+    {
+      "id": "p15",
+      "type": "mcq",
+      "question": "Dans Naruto Shippuden, quel est le nom du démon renard scellé en Naruto ?",
+      "choices": ["Shukaku", "Kurama", "Gyuki", "Matatabi"],
+      "answerIndex": 1
+    },
+    {
+      "id": "p16",
+      "type": "mcq",
+      "question": "Quel élément est presque toujours inclus dans un Happy Meal ?",
+      "choices": [
+        "Un jouet",
+        "Un livre scolaire",
+        "Un téléphone",
+        "Un bon de réduction"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "p17",
+      "type": "mcq",
+      "question": "Pourquoi les jouets du Happy Meal changent-ils régulièrement ?",
+      "choices": [
+        "Pour encourager les enfants à revenir",
+        "Parce qu'ils sont jetables",
+        "Pour réduire les coûts",
+        "Pour suivre les saisons uniquement"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "p18",
+      "type": "mcq",
+      "question": "Pourquoi le menu enfant de McDonald's s'appelle \"Happy Meal\" ?",
+      "choices": [
+        "Parce qu'il rend les enfants heureux",
+        "Parce qu'il est moins cher",
+        "Parce qu'il contient toujours un dessert",
+        "Parce qu'il est servi rapidement"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "p19",
+      "type": "mcq",
+      "question": "Dans Naruto Shippuden, combien de queues a Kyûbi ?",
+      "choices": ["7", "8", "9", "10"],
+      "answerIndex": 2
+    },
+    {
+      "id": "p20",
+      "type": "mcq",
+      "question": "Dans Naruto Shippuden, quel est le symbole de l'Akatsuki ?",
+      "choices": [
+        "Un nuage rouge",
+        "Une feuille verte",
+        "Un éventail violet",
+        "Un crâne blanc"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "p21",
+      "type": "mcq",
+      "question": "Quel joueur a remporté le plus de titres à Roland Garros ?",
+      "choices": [
+        "Roger Federer",
+        "Novak Djokovic",
+        "Rafael Nadal",
+        "Pete Sampras"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "p22",
+      "type": "mcq",
+      "question": "En F1, qui a remporté le championnat du monde en 2020 ?",
+      "choices": [
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Sebastian Vettel",
+        "Charles Leclerc"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "p23",
+      "type": "mcq",
+      "question": "Dans quelle décennie Britney Spears est-elle devenue célèbre ?",
+      "choices": ["Années 80", "Années 90", "Années 2000", "Années 2010"],
+      "answerIndex": 1
+    },
+    {
+      "id": "p24",
+      "type": "mcq",
+      "question": "Dans Naruto, comment s'appelle la technique signature de Naruto ?",
+      "choices": ["Chidori", "Rasengan", "Amaterasu", "Sharingan"],
+      "answerIndex": 1
+    },
+    {
+      "id": "p25",
+      "type": "mcq",
+      "question": "Dans Naruto, comment s'appelle le village de Naruto ?",
+      "choices": ["Konoha", "Suna", "Kiri", "Iwa"],
+      "answerIndex": 0
+    },
+    {
+      "id": "p26",
+      "type": "mcq",
+      "question": "Dans Naruto, à quoi fait réfèrence \"le roi\"  selon Asuma pour Shikamaru ?",
+      "choices": [
+        "Le roi est le Hokage",
+        "Le roi représente les enfants à protéger",
+        "Le roi est le ninja le plus fort",
+        "Le roi est le chef du clan"
+      ],
+      "answerIndex": 1
+    }
+  ],
+  "quiz2_hobbies": [
+    {
+      "id": "mu1",
+      "type": "mcq",
+      "question": "Combien de membres constitue le groupe Blackpink ?",
+      "choices": ["3", "4", "5", "6"],
+      "answerIndex": 1
+    },
+    {
+      "id": "mu2",
+      "type": "mcq",
+      "question": "Le Eras Tour de Taylor Swift compte combien de concerts ?",
+      "choices": ["52", "78", "149", "200"],
+      "answerIndex": 2
+    },
+    {
+      "id": "mu3",
+      "type": "mcq",
+      "question": "Quel est le titre de la chanson la plus célèbre du groupe Eagles ?",
+      "choices": [
+        "Hotel California",
+        "Take It Easy",
+        "Desperado",
+        "Life in the Fast Lane"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "mu4",
+      "type": "mcq",
+      "question": "De quel pays est originaire le groupe Eagles ?",
+      "choices": ["Royaume-Uni", "États-Unis", "Canada", "Australie"],
+      "answerIndex": 1
+    },
+    {
+      "id": "mu5",
+      "type": "mcq",
+      "question": "Dans quelle décennie le groupe Eagles s'est-il formé ?",
+      "choices": ["Années 60", "Années 70", "Années 80", "Années 90"],
+      "answerIndex": 1
+    },
+    {
+      "id": "mu6",
+      "type": "mcq",
+      "question": "Quel est le genre musical principal des Eagles ?",
+      "choices": ["Rock / Country rock", "Pop électronique", "Rap", "Jazz"],
+      "answerIndex": 0
+    },
+    {
+      "id": "mu7",
+      "type": "mcq",
+      "question": "Quel membre des Eagles est connu pour chanter \"Hotel California\" ?",
+      "choices": ["Don Henley", "Freddie Mercury", "Mick Jagger", "Elton John"],
+      "answerIndex": 0
+    },
+    {
+      "id": "mu8",
+      "type": "mcq",
+      "question": "Quel instrument est particulièrement présent dans la musique des Eagles ?",
+      "choices": ["Guitare", "Violon", "Saxophone", "Synthétiseur"],
+      "answerIndex": 0
+    },
+    {
+      "id": "mu9",
+      "type": "mcq",
+      "question": "Quel est le titre du premier grand succès de Britney Spears ?",
+      "choices": [
+        "...Baby One More Time",
+        "Toxic",
+        "Oops!... I Did It Again",
+        "Circus"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "mu10",
+      "type": "mcq",
+      "question": "De quel pays est originaire Britney Spears ?",
+      "choices": ["Royaume-Uni", "Canada", "États-Unis", "Australie"],
+      "answerIndex": 2
+    },
+    {
+      "id": "mu11",
+      "type": "mcq",
+      "question": "Quel est le métier principal de Britney Spears ?",
+      "choices": ["Actrice", "Chanteuse", "Danseuse", "Animatrice"],
+      "answerIndex": 1
+    },
+    {
+      "id": "mu12",
+      "type": "mcq",
+      "question": "Quel titre contient le mot \"Toxic\" ?",
+      "choices": ["Toxic", "Lucky", "Stronger", "Womanizer"],
+      "answerIndex": 0
+    },
+    {
+      "id": "mu13",
+      "type": "mcq",
+      "question": "Quel titre de musique commence par \"Oops!...\" ?",
+      "choices": [
+        "Oops!... I Did It Again",
+        "Baby One More Time",
+        "Circus",
+        "Everytime"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "a1",
+      "type": "mcq",
+      "question": "Dans Hunter X Hunter, qui est le meilleur ami de Gon ?",
+      "choices": ["Kurapika", "Hisoka", "Kirua", "Leorio"],
+      "answerIndex": 2
+    },
+    {
+      "id": "a2",
+      "type": "mcq",
+      "question": "Dans Dragon Ball Z, quel est le nom du fils de Goku ?",
+      "choices": ["Trunks", "Gohan", "Vegeta", "Pan"],
+      "answerIndex": 1
+    },
+    {
+      "id": "a3",
+      "type": "mcq",
+      "question": "Dans Berserk, quel est le nom de l'épée gigantesque de Guts ?",
+      "choices": ["Excalibur", "Dragon Slayer", "Demon Blade", "Soul Cutter"],
+      "answerIndex": 1
+    },
+    {
+      "id": "a4",
+      "type": "mcq",
+      "question": "Dans L'Attaque des Titans, quel est le nom du jeune héros principal ?",
+      "choices": ["Armin", "Eren", "Levi", "Reiner"],
+      "answerIndex": 1
+    },
+    {
+      "id": "a5",
+      "type": "mcq",
+      "question": "Dans Bob's Burgers, comment s'appelle le père de famille ?",
+      "choices": ["Bob Belcher", "Hank Hill", "Peter Griffin", "Stan Smith"],
+      "answerIndex": 0
+    },
+    {
+      "id": "a6",
+      "type": "mcq",
+      "question": "Dans Dragon Ball Z, combien d'étoiles porte la boule que Son Gohan donne à Son Goku ?",
+      "choices": ["1", "2", "4", "7"],
+      "answerIndex": 2
+    },
+    {
+      "id": "a7",
+      "type": "mcq",
+      "question": "Dans One Piece, qu’est-ce que le One Piece ?",
+      "choices": [
+        "Un navire légendaire",
+        "Le trésor laissé par Gol D. Roger sur Laugh Tale",
+        "Une technique secrète de Luffy",
+        "Une arme antique"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "a8",
+      "type": "mcq",
+      "question": "Dans Hunter X Hunter, quel est le nom de l'examen que Gon passe au début de l'histoire ?",
+      "choices": [
+        "L'examen de Hunter",
+        "L'examen des ninjas",
+        "Le test royal",
+        "L'épreuve céleste"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "a9",
+      "type": "mcq",
+      "question": "Dans Dragon Ball Z, quelle est la transformation la plus emblématique de Goku ?",
+      "choices": [
+        "Ultra Instinct",
+        "Super Saiyan",
+        "Kaioken",
+        "Super Saiyan Blue"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "a10",
+      "type": "mcq",
+      "question": "Dans Berserk, quel est le nom du groupe de mercenaires dirigé par Griffith ?",
+      "choices": [
+        "La Brigade Fantôme",
+        "La Troupe du Faucon",
+        "Les Chevaliers Noirs",
+        "L'Ordre du Dragon"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "a11",
+      "type": "mcq",
+      "question": "Dans L'Attaque des Titans, contre qui l'humanité se bat-elle ?",
+      "choices": ["Des démons", "Des titans", "Des dragons", "Des robots"],
+      "answerIndex": 1
+    },
+    {
+      "id": "a12",
+      "type": "mcq",
+      "question": "Dans Bob's Burgers, quel est le nom du restaurant familial ?",
+      "choices": [
+        "Bob's Burgers",
+        "Belcher Grill",
+        "Burger House",
+        "Family Burgers"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "a13",
+      "type": "mcq",
+      "question": "Dans Dragon Ball Z, qui est le prince des Saiyans ?",
+      "choices": ["Goku", "Vegeta", "Gohan", "Broly"],
+      "answerIndex": 1
+    },
+    {
+      "id": "a14",
+      "type": "mcq",
+      "question": "Dans One Piece, comment s'appelle le chapeau de Luffy ?",
+      "choices": [
+        "Chapeau noir",
+        "Chapeau de paille",
+        "Chapeau royal",
+        "Chapeau pirate"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "a15",
+      "type": "mcq",
+      "question": "Dans One Piece, quel est le pouvoir de Luffy ?",
+      "choices": [
+        "Il contrôle le feu",
+        "Il devient invisible",
+        "Son corps est en caoutchouc",
+        "Il peut voler"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "a16",
+      "type": "mcq",
+      "question": "Dans South Park, comment s'appelle le personnage qui meurt souvent ?",
+      "choices": ["Stan", "Kyle", "Kenny", "Cartman"],
+      "answerIndex": 2
+    },
+    {
+      "id": "a17",
+      "type": "mcq",
+      "question": "Dans South Park, comment s'appelle le personnage connu pour être égoïste et grossier ?",
+      "choices": ["Stan", "Cartman", "Kyle", "Butters"],
+      "answerIndex": 1
+    },
+    {
+      "id": "a18",
+      "type": "mcq",
+      "question": "Dans South Park, dans quelle ville vivent les personnages principaux ?",
+      "choices": ["Springfield", "South Park", "Quahog", "Arlen"],
+      "answerIndex": 1
+    },
+    {
+      "id": "a19",
+      "type": "mcq",
+      "question": "Dans South Park, comment s'appelle le meilleur ami de Stan ?",
+      "choices": ["Cartman", "Kenny", "Kyle", "Butters"],
+      "answerIndex": 2
+    },
+    {
+      "id": "a20",
+      "type": "mcq",
+      "question": "Dans South Park, quel est le prénom de Cartman ?",
+      "choices": ["Eric", "Steve", "Tom", "Brad"],
+      "answerIndex": 0
+    },
+    {
+      "id": "a21",
+      "type": "mcq",
+      "question": "Dans South Park, comment s'appelle le professeur des enfants ?",
+      "choices": ["Mr. Garrison", "Mr. Mackey", "Chef", "Principal Victoria"],
+      "answerIndex": 0
+    },
+    {
+      "id": "sp1",
+      "type": "mcq",
+      "question": "Dans quel pays se joue Roland Garros ?",
+      "choices": ["Espagne", "France", "Italie", "Suisse"],
+      "answerIndex": 1
+    },
+    {
+      "id": "sp2",
+      "type": "mcq",
+      "question": "Que se passe-t-il pendant la mi-temps du Superbowl ?",
+      "choices": [
+        "Un match amical",
+        "Un concert géant",
+        "Une remise de trophées",
+        "Une pause publicitaire"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "sp3",
+      "type": "mcq",
+      "question": "En F1, où se déroule le GP de Belgique ?",
+      "choices": ["Monza", "Silverstone", "Spa-Francorchamps", "Zandvoort"],
+      "answerIndex": 2
+    },
+    {
+      "id": "sp4",
+      "type": "mcq",
+      "question": "À quelle fréquence ont lieu les Jeux Olympiques d'été ?",
+      "choices": [
+        "Tous les 2 ans",
+        "Tous les 3 ans",
+        "Tous les 4 ans",
+        "Tous les 5 ans"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "sp5",
+      "type": "mcq",
+      "question": "Quelle ville a organisé les JO d'été 2024 ?",
+      "choices": ["Londres", "Tokyo", "Paris", "Los Angeles"],
+      "answerIndex": 2
+    },
+    {
+      "id": "sp6",
+      "type": "mcq",
+      "question": "Combien de disciplines officielles comptent les Jeux Olympiques d'été ?",
+      "choices": ["28", "30", "33", "36"],
+      "answerIndex": 2
+    },
+    {
+      "id": "sp7",
+      "type": "mcq",
+      "question": "Quel est le sport le plus pratiqué dans le monde ?",
+      "choices": ["Basketball", "Cricket", "Football", "Tennis"],
+      "answerIndex": 2
+    },
+    {
+      "id": "sp8",
+      "type": "mcq",
+      "question": "De quelle nationalité est Michael Schumacher ?",
+      "choices": ["Autrichien", "Allemand", "Suisse", "Belge"],
+      "answerIndex": 1
+    },
+    {
+      "id": "sp9",
+      "type": "mcq",
+      "question": "Sur quelle surface se joue Roland-Garros ?",
+      "choices": ["Gazon", "Terre battue", "Dur", "Moquette"],
+      "answerIndex": 1
+    },
+    {
+      "id": "sp10",
+      "type": "mcq",
+      "question": "Quel trophée est remis au vainqueur du Superbowl ?",
+      "choices": [
+        "Larry O'Brien Trophy",
+        "Stanley Cup",
+        "Vince Lombardi Trophy",
+        "Heisman Trophy"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "sp11",
+      "type": "mcq",
+      "question": "Quel pilote détient le plus de titres de champion du monde de F1 (à égalité) ?",
+      "choices": [
+        "Ayrton Senna",
+        "Lewis Hamilton",
+        "Fernando Alonso",
+        "Sebastian Vettel"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "sp12",
+      "type": "mcq",
+      "question": "Quel pays a remporté la Coupe du Monde de football 2018 ?",
+      "choices": ["Allemagne", "Brésil", "France", "Argentine"],
+      "answerIndex": 2
+    },
+    {
+      "id": "sp13",
+      "type": "mcq",
+      "question": "Quel sport est associé au tournoi de Wimbledon ?",
+      "choices": ["Golf", "Tennis", "Cricket", "Rugby"],
+      "answerIndex": 1
+    },
+    {
+      "id": "hu1",
+      "type": "mcq",
+      "question": "Quelle est la ville la plus peuplée du monde en 2025 ?",
+      "choices": ["New York", "Shanghai", "Tokyo", "Delhi"],
+      "answerIndex": 2
+    },
+    {
+      "id": "hu2",
+      "type": "mcq",
+      "question": "Combien de pays sont membres de l’ONU ?",
+      "choices": ["183", "190", "193", "200"],
+      "answerIndex": 2
+    },
+    {
+      "id": "hu3",
+      "type": "mcq",
+      "question": "Quel jour célèbre la Journée Internationale des Droits de l’Enfant ?",
+      "choices": ["10 décembre", "20 novembre", "1er juin", "15 août"],
+      "answerIndex": 1
+    },
+    {
+      "id": "hu4",
+      "type": "mcq",
+      "question": "Quel est le premier réseau social créé au monde ?",
+      "choices": ["Facebook", "MySpace", "SixDegrees", "Friendster"],
+      "answerIndex": 2
+    },
+    {
+      "id": "mo1",
+      "type": "mcq",
+      "question": "Quelle maison de Haute Couture a popularisé le sac 'Birkin' ?",
+      "choices": ["Chanel", "Louis Vuitton", "Hermès", "Gucci"],
+      "answerIndex": 2
+    },
+    {
+      "id": "mo2",
+      "type": "mcq",
+      "question": "Qui a fondé YSL ?",
+      "choices": [
+        "Pierre Cardin",
+        "Christian Dior",
+        "Yves Saint Laurent",
+        "Jean Paul Gaultier"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "mo3",
+      "type": "mcq",
+      "question": "Quelle couleur est emblématique de YSL pour les cosmétiques ?",
+      "choices": ["Bleu", "Rouge", "Or", "Noir"],
+      "answerIndex": 2
+    },
+    {
+      "id": "mo4",
+      "type": "mcq",
+      "question": "Qui a habillé les soldats nazis durant la Seconde Guerre mondiale ?",
+      "choices": ["Hugo Boss", "Armani", "Chanel", "Versace"],
+      "answerIndex": 0
+    },
+    {
+      "id": "mo5",
+      "type": "mcq",
+      "question": "Qu'est-ce qu'une maison de couture ?",
+      "choices": [
+        "Une marque de prêt-à-porter",
+        "Une entreprise de textile",
+        "Une maison créant des vêtements sur mesure",
+        "Une école de stylisme"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "mo6",
+      "type": "mcq",
+      "question": "Combien y a-t-il de Fashion Week par an ?",
+      "choices": ["2", "3", "4", "6"],
+      "answerIndex": 2
+    },
+    {
+      "id": "mo7",
+      "type": "mcq",
+      "question": "Qu'est-ce que 'Haute Couture' veut dire ?",
+      "choices": [
+        "Mode commerciale",
+        "Mode de masse",
+        "Mode de luxe sur mesure",
+        "Mode vintage"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "mo8",
+      "type": "mcq",
+      "question": "Quelle tendance mode a été popularisée par le mouvement punk dans les années 70 ?",
+      "choices": [
+        "Tenues élégantes",
+        "Vêtements déchirés et cloutés",
+        "Costumes trois pièces",
+        "Robe longue"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "mo9",
+      "type": "mcq",
+      "question": "Quelle marque est célèbre pour son défilé annuel avec des 'Anges' ?",
+      "choices": ["Victoria's Secret", "Calvin Klein", "Dior", "Balenciaga"],
+      "answerIndex": 0
+    },
+    {
+      "id": "mo10",
+      "type": "mcq",
+      "question": "Quel est le principal matériau utilisé pour fabriquer des vêtements au XIXe siècle ?",
+      "choices": ["Polyester", "Coton", "Soie", "Laine"],
+      "answerIndex": 3
+    },
+    {
+      "id": "mo11",
+      "type": "mcq",
+      "question": "Quelle maison de couture est célèbre pour ses robes de soirée rouges ?",
+      "choices": ["Valentino", "Versace", "Balmain", "Prada"],
+      "answerIndex": 0
+    },
+    {
+      "id": "mo12",
+      "type": "mcq",
+      "question": "Quel accessoire mode est emblématique des années 1920 ?",
+      "choices": ["Chapeau cloche", "Casquette", "Turban", "Bonnet"],
+      "answerIndex": 0
+    },
+    {
+      "id": "an1",
+      "type": "mcq",
+      "question": "Comment sont dressés les pigeons voyageurs ?",
+      "choices": [
+        "Avec des récompenses alimentaires",
+        "Grâce à leur instinct de retour au nid",
+        "Par dressage militaire",
+        "Avec des sifflets"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "an2",
+      "type": "mcq",
+      "question": "Les pingouins ont-ils des genoux ?",
+      "choices": [
+        "Non, jamais",
+        "Oui, mais ils sont cachés sous les plumes",
+        "Seulement les mâles",
+        "Uniquement les bébés"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "an3",
+      "type": "mcq",
+      "question": "Quelle est la durée de vie moyenne d’un chat domestique ?",
+      "choices": ["5 à 8 ans", "8 à 10 ans", "12 à 15 ans", "20 à 25 ans"],
+      "answerIndex": 2
+    },
+    {
+      "id": "an4",
+      "type": "mcq",
+      "question": "Quel est le pays avec le plus grand nombre de pigeons voyageurs ?",
+      "choices": ["France", "Belgique", "Chine", "Maroc"],
+      "answerIndex": 1
+    },
+    {
+      "id": "an5",
+      "type": "mcq",
+      "question": "Quel est l’animal le plus utilisé dans les laboratoires scientifiques ?",
+      "choices": ["Le lapin", "Le chien", "La souris", "Le singe"],
+      "answerIndex": 2
+    },
+    {
+      "id": "fi1",
+      "type": "mcq",
+      "question": "Dans Le Seigneur des anneaux, qui est le roi du Gondor à la fin ?",
+      "choices": ["Boromir", "Aragorn", "Faramir", "Théoden"],
+      "answerIndex": 1
+    },
+    {
+      "id": "fi2",
+      "type": "mcq",
+      "question": "Dans Matrix, qui est le héros principal ?",
+      "choices": ["Morpheus", "Agent Smith", "Neo", "Trinity"],
+      "answerIndex": 2
+    },
+    {
+      "id": "fi3",
+      "type": "mcq",
+      "question": "Dans Matrix, de quelle couleur est la pilule que Neo choisit ?",
+      "choices": ["Bleue", "Rouge", "Verte", "Noire"],
+      "answerIndex": 1
+    },
+    {
+      "id": "fi4",
+      "type": "mcq",
+      "question": "Dans Harry Potter, quel est le nom original de l'école de Harry ?",
+      "choices": ["Beauxbâtons", "Durmstrang", "Hogwarts", "Ilvermorny"],
+      "answerIndex": 2
+    },
+    {
+      "id": "fi5",
+      "type": "mcq",
+      "question": "Robin Williams est connu pour avoir joué dans quel type de film ?",
+      "choices": [
+        "Films d’horreur",
+        "Films d’action",
+        "Comédies",
+        "Films de science-fiction"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "fi6",
+      "type": "mcq",
+      "question": "Qui joue le rôle principal dans le film 'Dune' (2021) ?",
+      "choices": ["Timothée Chalamet", "Zendaya", "Jason Momoa", "Oscar Isaac"],
+      "answerIndex": 0
+    },
+    {
+      "id": "fi7",
+      "type": "mcq",
+      "question": "Qui est l'entraîneur dans le film 'Coach Carter' ?",
+      "choices": [
+        "Denzel Washington",
+        "Will Smith",
+        "Samuel L. Jackson",
+        "Morgan Freeman"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "id": "fi8",
+      "type": "mcq",
+      "question": "Quel studio produit les films Pixar ?",
+      "choices": ["DreamWorks", "Warner Bros", "Disney", "Universal"],
+      "answerIndex": 2
+    },
+    {
+      "id": "fi9",
+      "type": "mcq",
+      "question": "Quel est le premier long-métrage Disney ?",
+      "choices": ["Cendrillon", "Blanche-Neige", "Bambi", "Pinocchio"],
+      "answerIndex": 1
+    },
+    {
+      "id": "fi10",
+      "type": "mcq",
+      "question": "Dans quel film Pixar vient la phrase « Il y a un serpent dans ma botte » ?",
+      "choices": ["Cars", "Toy Story", "Monstres & Cie", "Là-haut"],
+      "answerIndex": 1
+    },
+    {
+      "id": "fi11",
+      "type": "mcq",
+      "question": "Quel film Disney-Pixar met en scène un rat cuisinier nommé Rémy ?",
+      "choices": ["Ratatouille", "Volt", "Coco", "Rebelle"],
+      "answerIndex": 0
+    },
+    {
+      "id": "fi12",
+      "type": "mcq",
+      "question": "Quel personnage de Star Wars est le père de Luke Skywalker ?",
+      "choices": ["Suprême Leader", "Obi-Wan", "Han Solo", "Dark Vador"],
+      "answerIndex": 3
+    },
+    {
+      "id": "fi13",
+      "type": "mcq",
+      "question": "Quel est l’acteur principal de USS Greyhound : La Bataille de l’Atlantique ?",
+      "choices": ["Brad Pitt", "Matt Damon", "Tom Hanks", "Leonardo DiCaprio"],
+      "answerIndex": 2
+    },
+    {
+      "id": "fi14",
+      "type": "mcq",
+      "question": "Quel objet Frodon doit-il détruire ?",
+      "choices": [
+        "L'Anneau Unique",
+        "Une épée magique",
+        "Un sceptre",
+        "Un collier"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "fi15",
+      "type": "mcq",
+      "question": "Comment s'appelle le fidèle compagnon de Frodon ?",
+      "choices": ["Sam", "Merry", "Pippin", "Boromir"],
+      "answerIndex": 0
+    },
+    {
+      "id": "fi16",
+      "type": "mcq",
+      "question": "Où doit être détruit l'Anneau Unique ?",
+      "choices": [
+        "Dans la Montagne du Destin",
+        "À Minas Tirith",
+        "À Fondcombe",
+        "Dans la Comté"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "fi17",
+      "type": "mcq",
+      "question": "Quelle créature obsessionnelle veut récupérer l'Anneau ?",
+      "choices": ["Gollum", "Un orque", "Un elfe", "Un troll"],
+      "answerIndex": 0
+    },
+    {
+      "id": "se1",
+      "type": "mcq",
+      "question": "Dans Friends, quel personnage est connu pour son humour sarcastique ?",
+      "choices": ["Joey", "Ross", "Chandler", "Phoebe"],
+      "answerIndex": 2
+    },
+    {
+      "id": "se2",
+      "type": "mcq",
+      "question": "Dans Friends, quel est le métier de Ross ?",
+      "choices": ["Avocat", "Paléontologue", "Médecin", "Journaliste"],
+      "answerIndex": 1
+    },
+    {
+      "id": "se3",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, qui est surnommé 'The Mother of Dragons' ?",
+      "choices": ["Cersei", "Sansa", "Daenerys", "Arya"],
+      "answerIndex": 2
+    },
+    {
+      "id": "se4",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, qui tue le Roi de la Nuit ?",
+      "choices": ["Jon Snow", "Daenerys", "Arya Stark", "Bran"],
+      "answerIndex": 2
+    },
+    {
+      "id": "se5",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, quel est le véritable nom de 'Littlefinger' ?",
+      "choices": [
+        "Varys",
+        "Petyr Baelish",
+        "Tyrion Lannister",
+        "Sandor Clegane"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "se6",
+      "type": "mcq",
+      "question": "Dans Euphoria, qui joue le rôle principal ?",
+      "choices": ["Zendaya", "Sydney Sweeney", "Alexa Demie", "Hunter Schafer"],
+      "answerIndex": 0
+    },
+    {
+      "id": "se7",
+      "type": "mcq",
+      "question": "Dans Euphoria, quel est le thème central ?",
+      "choices": [
+        "La guerre",
+        "La vie scolaire",
+        "Les addictions et l’adolescence",
+        "Le sport"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "se8",
+      "type": "mcq",
+      "question": "Dans Charmed, quel pouvoir principal a Piper Halliwell ?",
+      "choices": [
+        "Lire dans les pensées",
+        "Arrêter le temps",
+        "Se téléporter",
+        "Lancer du feu"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "se9",
+      "type": "mcq",
+      "question": "Dans Charmed, quel est le nom de la plus jeune sœur Halliwell ?",
+      "choices": ["Prue", "Phoebe", "Paige", "Billie"],
+      "answerIndex": 2
+    },
+    {
+      "id": "se10",
+      "type": "mcq",
+      "question": "Dans Friends, comment s'appelle le café où les personnages se retrouvent souvent ?",
+      "choices": [
+        "Central Perk",
+        "Coffee House",
+        "Daily Grind",
+        "Central Café"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "se11",
+      "type": "mcq",
+      "question": "Dans Friends, quel est le métier de Ross ?",
+      "choices": ["Médecin", "Paléontologue", "Avocat", "Professeur de sport"],
+      "answerIndex": 1
+    },
+    {
+      "id": "se12",
+      "type": "mcq",
+      "question": "Dans Friends, comment s'appelle le colocataire de Chandler au début de la série ?",
+      "choices": ["Ross", "Joey", "Mike", "Gunther"],
+      "answerIndex": 1
+    },
+    {
+      "id": "se13",
+      "type": "mcq",
+      "question": "Dans Friends, quel est le métier de Joey ?",
+      "choices": ["Acteur", "Serveur", "Musicien", "Photographe"],
+      "answerIndex": 0
+    },
+    {
+      "id": "se14",
+      "type": "mcq",
+      "question": "Dans Friends, comment s'appelle la sœur de Ross ?",
+      "choices": ["Rachel", "Phoebe", "Monica", "Janice"],
+      "answerIndex": 2
+    },
+    {
+      "id": "se15",
+      "type": "mcq",
+      "question": "Dans Friends, quel est le métier de Rachel au début de la série ?",
+      "choices": ["Serveuse", "Styliste", "Actrice", "Journaliste"],
+      "answerIndex": 0
+    },
+    {
+      "id": "se16",
+      "type": "mcq",
+      "question": "Dans Friends, qui est connu pour dire \"We were on a break!\" ?",
+      "choices": ["Chandler", "Ross", "Joey", "Mike"],
+      "answerIndex": 1
+    },
+    {
+      "id": "se17",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, comment s'appelle la famille de Jon Snow ?",
+      "choices": ["Lannister", "Stark", "Baratheon", "Targaryen"],
+      "answerIndex": 1
+    },
+    {
+      "id": "se18",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, qui est la \"Mère des Dragons\" ?",
+      "choices": ["Cersei", "Sansa", "Daenerys", "Arya"],
+      "answerIndex": 2
+    },
+    {
+      "id": "se19",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, comment s'appelle le trône convoité par les différentes familles ?",
+      "choices": [
+        "Le trône royal",
+        "Le trône de fer",
+        "Le trône sacré",
+        "Le trône du nord"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "se20",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, quel animal est l'emblème de la maison Stark ?",
+      "choices": ["Un lion", "Un dragon", "Un loup", "Un cerf"],
+      "answerIndex": 2
+    },
+    {
+      "id": "se21",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, qui est surnommé \"le Régicide\" ?",
+      "choices": ["Tyrion", "Jaime", "Joffrey", "Theon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "se22",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, quel mur protège le royaume du Nord ?",
+      "choices": [
+        "Le Mur",
+        "Le Grand Rempart",
+        "La Barrière",
+        "Le Mur de glace"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "se23",
+      "type": "mcq",
+      "question": "Dans Game of Thrones, quel est le slogan de la maison Stark ?",
+      "choices": [
+        "Le feu et le sang",
+        "L'hiver vient",
+        "Nous ne semons pas",
+        "Un Lannister paie toujours ses dettes"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "sc1",
+      "type": "mcq",
+      "question": "En Astronomie, qu'est-ce qu'un trou noir ?",
+      "choices": [
+        "Une étoile morte",
+        "Une région de l’espace avec une gravité extrême",
+        "Un nuage de gaz",
+        "Une planète invisible"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "sc2",
+      "type": "mcq",
+      "question": "En Physique, qui est considéré comme le père de la mécanique quantique ?",
+      "choices": ["Albert Einstein", "Isaac Newton", "Max Planck", "Galilée"],
+      "answerIndex": 2
+    },
+    {
+      "id": "sc3",
+      "type": "mcq",
+      "question": "Qu’est-ce qu’un ordinateur quantique ?",
+      "choices": [
+        "Un super ordinateur classique",
+        "Un ordinateur utilisant des qubits",
+        "Un ordinateur portable",
+        "Un serveur Internet"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "sc4",
+      "type": "mcq",
+      "question": "Quelle est la formule chimique de l'eau ?",
+      "choices": ["CO2", "H2O", "O2", "NaCl"],
+      "answerIndex": 1
+    },
+    {
+      "id": "sc5",
+      "type": "mcq",
+      "question": "Combien de planètes composent notre système solaire ?",
+      "choices": ["7", "8", "9", "10"],
+      "answerIndex": 1
+    },
+    {
+      "id": "sc6",
+      "type": "mcq",
+      "question": "Quelle est la vitesse de la lumière ?",
+      "choices": [
+        "150 000 km/s",
+        "300 000 km/s",
+        "1 million km/s",
+        "30 000 km/s"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "sc7",
+      "type": "mcq",
+      "question": "Quel gaz est essentiel à la respiration des humains ?",
+      "choices": ["Hydrogène", "Azote", "Oxygène", "Hélium"],
+      "answerIndex": 2
+    },
+    {
+      "id": "sc8",
+      "type": "mcq",
+      "question": "Quel scientifique a formulé la loi de la gravitation universelle ?",
+      "choices": ["Einstein", "Newton", "Galilée", "Tesla"],
+      "answerIndex": 1
+    },
+    {
+      "id": "sc9",
+      "type": "mcq",
+      "question": "Quel est le plus grand organe du corps humain ?",
+      "choices": ["Foie", "Cerveau", "Peau", "Cœur"],
+      "answerIndex": 2
+    },
+    {
+      "id": "sc10",
+      "type": "mcq",
+      "question": "Qu’est-ce que la photosynthèse ?",
+      "choices": [
+        "La respiration des plantes",
+        "La production d’énergie par les plantes grâce à la lumière",
+        "La croissance des racines",
+        "La reproduction végétale"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "sc11",
+      "type": "mcq",
+      "question": "Quelle planète est surnommée la planète rouge ?",
+      "choices": ["Mars", "Jupiter", "Vénus", "Mercure"],
+      "answerIndex": 0
+    },
+    {
+      "id": "yt1",
+      "type": "mcq",
+      "question": "Que fait Léna Situations sur YouTube ?",
+      "choices": [
+        "Des tutoriels maquillage",
+        "Des vlogs lifestyle",
+        "Des vidéos de gaming",
+        "Des vidéos de cuisine"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "yt2",
+      "type": "mcq",
+      "question": "Sur YouTube, quelle est la durée moyenne des vlogs ?",
+      "choices": [
+        "2 à 5 minutes",
+        "5 à 10 minutes",
+        "10 à 20 minutes",
+        "30 à 60 minutes"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "yt3",
+      "type": "mcq",
+      "question": "Quel type de contenu est le plus populaire sur YouTube ?",
+      "choices": [
+        "Les documentaires",
+        "Les clips musicaux",
+        "Les tutoriels",
+        "Les vidéos éducatives"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "yt4",
+      "type": "mcq",
+      "question": "Quel est le pays d’origine de YouTube ?",
+      "choices": ["Royaume-Uni", "Canada", "États-Unis", "Australie"],
+      "answerIndex": 2
+    },
+    {
+      "id": "yt5",
+      "type": "mcq",
+      "question": "Qui sont les fondateurs de YouTube ?",
+      "choices": [
+        "Mark Zuckerberg et ses amis",
+        "Steve Jobs et Bill Gates",
+        "Chad Hurley, Steve Chen et Jawed Karim",
+        "Elon Musk et Jeff Bezos"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

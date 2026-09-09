@@ -1,0 +1,258 @@
+@use "../styles/tokens" as *;
+@use "../styles/mixins" as m;
+
+.start {
+  &__card {
+    display: grid;
+    gap: $space-4;
+  }
+
+  &__hud {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: $space-1;
+    border-bottom: 1px solid $border-soft;
+  }
+
+  &__hudLeft,
+  &__hudRight {
+    display: grid;
+  }
+
+  &__hudLine {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  &__hudLabel {
+    color: $color-muted;
+  }
+
+  &__hudValue {
+    color: $color-text;
+  }
+
+  &__hudValue--ok {
+    @include m.neon-text($color-primary);
+  }
+
+  &__titleWrap {
+    display: grid;
+    gap: 8px;
+  }
+
+  &__title {
+    margin: 0;
+  }
+
+  &__subtitle {
+    margin: 0;
+  }
+
+  &__version{
+    margin: 0;
+  }
+
+  &__terminal {
+    border: 1px solid $border;
+    border-radius: $radius-lg;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0.28);
+
+    @include m.neon-border($color-primary);
+  }
+
+  &__terminalTop {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 12px;
+    border-bottom: 1px solid $border-soft;
+    background: rgba(57, 255, 20, 0.06);
+  }
+
+  &__terminalDot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 999px;
+    opacity: 0.9;
+  }
+
+  &__terminalDot--a {
+    background: $color-danger;
+  }
+
+  &__terminalDot--b {
+    background: $color-warning;
+  }
+
+  &__terminalDot--c {
+    background: $color-secondary;
+  }
+
+  &__terminalTitle {
+    margin-left: 6px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: $color-muted;
+  }
+
+  &__terminalBody {
+    padding: $space-4;
+    display: grid;
+    gap: $space-2;
+  }
+
+  &__terminalBody--fixed {
+    min-height: 430px;
+    display: grid;
+    grid-template-rows: auto 1fr;
+    gap: 4px;
+  }
+
+  &__terminalLogs {
+    display: grid;
+    gap: 4px;
+    align-content: start;
+  }
+
+  &__log {
+    margin: 0;
+    font-size: 13px;
+    color: $color-muted;
+  }
+
+  &__logLine {
+    margin: 0;
+    min-height: 22px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  &__logText {
+    display: inline-flex;
+    align-items: center;
+    min-width: 0;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  &__cursor {
+    display: inline-block;
+    margin-left: 4px;
+    animation: blink 0.8s steps(1) infinite;
+  }
+
+  &__skipHint {
+    margin: 0;
+    font-size: 11px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: $color-muted;
+    opacity: 0.7;
+    animation: blink 1.2s infinite;
+  }
+
+
+  &__form {
+    display: grid;
+    gap: 12px;
+  }
+
+  &__formItem {
+    opacity: 0;
+    transform: translateY(6px);
+    pointer-events: none;
+    transition:
+      opacity 0.22s ease,
+      transform 0.22s ease;
+  }
+
+  &__formItem--visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+
+  &__label {
+    display: none;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: $color-secondary;
+  }
+
+  &__inputRow {
+    display: grid;
+    grid-template-columns: 24px 1fr;
+    align-items: center;
+    gap: 10px;
+  }
+
+  &__prompt {
+    font-size: 16px;
+
+    @include m.neon-text($color-primary);
+  }
+
+  &__input {
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+  }
+
+  &__actions {
+    display: flex;
+    gap: 10px;
+  }
+
+  &__startBtn,
+  &__secondaryBtn {
+    width: 100%;
+  }
+
+  &__hint {
+    margin: 0;
+    font-size: 12px;
+    color: $color-muted;
+  }
+
+  &__footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding-top: $space-2;
+    border-top: 1px solid $border-soft;
+  }
+
+  &__badge {
+    color: $color-secondary;
+  }
+
+  &__coin {
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    animation: flicker 2.8s infinite;
+
+    @include m.neon-text($color-accent);
+  }
+
+  @include m.up($bp-md) {
+    &__hud {
+      grid-template-columns: 1fr 1fr;
+      align-items: start;
+    }
+
+    &__actions {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+}

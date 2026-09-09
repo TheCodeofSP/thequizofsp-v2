@@ -1,0 +1,51 @@
+@use "../styles/tokens" as *;
+@use "../styles/mixins" as m;
+
+.footer {
+  display: grid;
+  gap: 12px;
+  width: min(100% - 32px, 960px);
+  margin: 24px auto 0;
+  padding: 24px 0 28px;
+  text-align: center;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: $color-muted;
+  border-top: 1px solid $border-soft;
+}
+
+.footer__signature {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.footer__about {
+  margin: 0;
+  line-height: 1.7;
+  text-transform: none;
+}
+
+.footer a {
+  color: $color-muted;
+  text-decoration: none;
+  transition: color 0.3s;
+
+  &:hover {
+    color: $color-primary;
+  }
+}
+
+.footer__logo {
+  width: auto;
+  height: 15px;
+}
+
+.footer__links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
