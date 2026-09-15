@@ -23,7 +23,7 @@ export default function LeaderboardPage() {
       try {
         setLoading(true);
         setError("");
-        const data = await getScores(20);
+        const data = await getScores(10);
         setScores(data);
       } catch (e) {
         setError(e.message || "Erreur");
@@ -43,7 +43,7 @@ export default function LeaderboardPage() {
           <div className="leaderboard__hudLeft">
             <h2 className="title leaderboard__title">LEADERBOARD</h2>
             <p className="subtitle leaderboard__subtitle">
-              TOP 20 • ARCADE BOARD
+              TOP 10 • ARCADE BOARD
             </p>
           </div>
         </header>
